@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 
-   <h2> Testing CI/CD with deploy k8s auto </h2>
+   <h2> Testing CI/CD with deploy k8s </h2>
   
 </form>
